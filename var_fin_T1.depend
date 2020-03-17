@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583216389 source:c:\users\const\documents\anul1\sem2\lfa lab\var_fin_t1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
